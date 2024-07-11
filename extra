@@ -1,0 +1,24 @@
+<div class="col-lg-4">
+          <p style="color: var(--primary-color);">COMPANY</p>
+          <p>Team</p>
+          <p>Accounts</p>
+          <p>Taxation</p>
+          <p>Auditing</p>
+          <p>Bureau Services</p>
+          <p>Consulting</p>
+        </div>
+        <div class="col-lg-4"><p></p>
+        <p style="color: var(--primary-color);">QUALITY SERVICES</p>
+        <p>Accountants</p>
+        <p>Bookkeeping</p>
+        <p>Company accounts</p>
+        <p>Tax planning</p>
+        <p>Tax returns</p>
+      </div>
+        <div class="col-lg-4">
+          <p style="color: var(--primary-color);">Accounts preparation</p>
+          <p>Auditors</p>
+          <p>Business advice</p>
+          <p>Business development</p>
+          <p>plans</p>
+        </div>
